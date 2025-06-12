@@ -1,4 +1,4 @@
-# 🤖 Gemini 1.5 Flash Apps
+# 🤖 LLM Applications using Gemini model
 
 This repository contains two powerful LLM-based applications built using Google's **Gemini 1.5 Flash** model via `google.generativeai`. These apps demonstrate both text-based and image-based interaction capabilities.
 
